@@ -64,6 +64,7 @@ var radar_data = [
             {"name":"说话之道", "pc":{"r":340,"t":120},"movement":"c"},
             {"name":"人性的弱点", "pc":{"r":350,"t":150},"movement":"c"},
             {"name":"弱传播", "pc":{"r":360,"t":130},"movement":"c"},
+            {"name":"思辨与立场", "pc":{"r":380,"t":140},"movement":"c"},
             {"name":"从0到1", "pc":{"r":370,"t":100},"movement":"c"}
         ]
     },
