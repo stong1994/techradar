@@ -69,7 +69,7 @@ var stageHeadingCount = 0;
 var lastRadius = 0;
 var lastQuadrant='';
 var spacer = 6;
-var fontSize = 10;
+var fontSize = 20;
 var total_index = 1;
 
 //TODO: Super fragile: re-order the items, by radius, in order to logically group by the rings.
