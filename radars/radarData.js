@@ -63,7 +63,7 @@ var radar_data = [
             {"name":"增长黑客", "pc":{"r":330,"t":170},"movement":"c"},
             {"name":"说话之道", "pc":{"r":340,"t":120},"movement":"c"},
             {"name":"人性的弱点", "pc":{"r":350,"t":150},"movement":"c"},
-            {"name":"弱传播", "pc":{"r":360,"t":130},"movement":"c"},
+            {"name":"弱传播", "pc":{"r":260,"t":130},"movement":"c"},
             {"name":"思辨与立场", "pc":{"r":380,"t":140},"movement":"c"},
             {"name":"从0到1", "pc":{"r":370,"t":100},"movement":"c"}
         ]
@@ -76,6 +76,7 @@ var radar_data = [
             {"name": "自卑与超越", pc: { r: 110, t: 45 }, "movement":"c" },
             {"name":"千面英雄", "pc":{"r":330,"t":75},"movement":"c"},
             {"name":"活出生命的意义", "pc":{"r":350,"t":25},"movement":"c"},
+            {"name":"瓦尔登湖", "pc":{"r":10,"t":45},"movement":"c"},
             {"name":"乌合之众", "pc":{"r":380,"t":35},"movement":"c"}
   ]
     },
@@ -88,7 +89,6 @@ var radar_data = [
             {"name":"我是你爸爸", "pc":{"r":140,"t":200},"movement":"c"},
             {"name":"变身", "pc":{"r":180,"t":220},"movement":"c"},
             {"name":"流浪者之歌", "pc":{"r":330,"t":260},"movement":"c"},
-            {"name":"瓦尔登湖", "pc":{"r":310,"t":240},"movement":"c"},
             {"name":"傲慢与偏见", "pc":{"r":320,"t":200},"movement":"c"},
             {"name":"围城", "pc":{"r":350,"t":220},"movement":"c"}
         ]
