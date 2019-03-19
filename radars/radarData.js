@@ -58,6 +58,7 @@ var radar_data = [
             {"name":"深度工作", "pc":{"r":60,"t":165},"movement":"c"},
             {"name":"思考，快与慢", "pc":{"r":70,"t":120},"movement":"c"},
             {"name":"黑天鹅", "pc":{"r":90,"t":100},"movement":"c"},
+			{"name":"自学是门艺术", "pc":{"r":160,"t":130},"movement":"c"},
             {"name":"巨人的工具", "pc":{"r":310,"t":135},"movement":"c"},
             {"name":"穷查理宝典", "pc":{"r":320,"t":100},"movement":"c"},
             {"name":"增长黑客", "pc":{"r":330,"t":170},"movement":"c"},
