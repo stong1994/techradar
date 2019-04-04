@@ -1,4 +1,4 @@
-//This is the title for your window tab, and your Radar
+﻿//This is the title for your window tab, and your Radar
 document.title = "2019阅读书单（持续更新中）";
 
 
@@ -100,7 +100,8 @@ var radar_data = [
         "top" :   (h/2 + 18),
         "items" : [
             {"name": "万历十五年", pc: { r: 80, t: 315 }, "movement":"c" },
-            {"name":"人类简史", "pc":{"r":310,"t":310},"movement":"c"},
+            {"name":"人类简史", "pc":{"r":50,"t":310},"movement":"c"},
+            {"name":"未来简史", "pc":{"r":150,"t":300},"movement":"c"},
             {"name":"历史的教训", "pc":{"r":350,"t":320},"movement":"c"},
             {"name":"乡土中国", "pc":{"r":330,"t":350},"movement":"c"}
         ]
