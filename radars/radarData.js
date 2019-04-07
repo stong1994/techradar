@@ -55,8 +55,9 @@ var radar_data = [
         "color" : "#8FA227",
         "items" : [ 
             {"name": "原则", pc: { r: 50, t: 133 }, "movement":"c" },
-            {"name":"深度工作", "pc":{"r":60,"t":165},"movement":"c"},
-            {"name":"思考，快与慢", "pc":{"r":70,"t":120},"movement":"c"},
+{"name":"人性的弱点", "pc":{"r":60,"t":120},"movement":"c"},
+            {"name":"深度工作", "pc":{"r":70,"t":165},"movement":"c"},
+            {"name":"思考，快与慢", "pc":{"r":80,"t":120},"movement":"c"},
             {"name":"黑天鹅", "pc":{"r":90,"t":100},"movement":"c"},
 			{"name":"自学是门艺术", "pc":{"r":160,"t":130},"movement":"c"},
             {"name":"巨人的工具", "pc":{"r":310,"t":135},"movement":"c"},
