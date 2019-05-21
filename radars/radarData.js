@@ -62,6 +62,7 @@ var radar_data = [
 		        {"name":"自学是门艺术", "pc":{"r":160,"t":130},"movement":"c"},
             {"name":"巨人的工具", "pc":{"r":310,"t":135},"movement":"c"},
             {"name":"穷查理宝典", "pc":{"r":85,"t":90},"movement":"c"},
+            {"name":"穷爸爸富爸爸", "pc":{"r":95,"t":110},"movement":"c"},
             {"name":"增长黑客", "pc":{"r":330,"t":170},"movement":"c"},
             {"name":"说话之道", "pc":{"r":340,"t":120},"movement":"c"},
             {"name":"读书是一辈子事", "pc":{"r":190,"t":150},"movement":"c"},
