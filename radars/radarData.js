@@ -109,6 +109,7 @@ var radar_data = [
             {"name": "万历十五年", pc: { r: 80, t: 315 }, "movement":"c" },
             {"name":"人类简史", "pc":{"r":50,"t":310},"movement":"c"},
             {"name":"未来简史", "pc":{"r":150,"t":300},"movement":"c"},
+            {"name":"美国陷阱", "pc":{"r":100,"t":330},"movement":"c"},
             {"name":"历史的教训", "pc":{"r":350,"t":320},"movement":"c"},
             {"name":"乡土中国", "pc":{"r":330,"t":350},"movement":"c"}
         ]
