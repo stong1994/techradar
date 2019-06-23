@@ -65,6 +65,7 @@ var radar_data = [
             {"name":"20岁,光阴不再来", "pc":{"r":120,"t":130},"movement":"c"},
             {"name":"高敏感是种天赋", "pc":{"r":130,"t":150},"movement":"c"},
             {"name":"精进：如何成为一个很厉害的人", "pc":{"r":140,"t":120},"movement":"c"},
+			{"name":"精进2：解锁外物的心智进化法", "pc":{"r":145,"t":125},"movement":"c"},
             {"name":"说话之道", "pc":{"r":150,"t":120},"movement":"c"},
             {"name":"如何让你爱的人爱上你", pc: { r: 160, t: 155 }, "movement":"c" },
             {"name":"自学是门艺术", "pc":{"r":170,"t":130},"movement":"c"},
@@ -101,7 +102,7 @@ var radar_data = [
         "items" : [
             {"name": "西窗法雨", pc: { r: 90, t: 205 }, "movement":"c" },
             {"name":"自卑与超越", pc: { r: 110, t: 225 }, "movement":"c" },
-            {"name":"法学导论", "pc":{"r":340,"t":200},"movement":"c"},
+            {"name":"法学导论", "pc":{"r":120,"t":200},"movement":"c"},
             {"name":"国富论", "pc":{"r":360,"t":220},"movement":"c"}
 		]
     },
