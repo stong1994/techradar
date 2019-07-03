@@ -86,6 +86,7 @@ var radar_data = [
             {"name":"瓦尔登湖", "pc":{"r":10,"t":45},"movement":"c"},
             {"name": "活着", pc: { r: 40, t: 30 }, "movement":"c" },
             {"name":"流浪者之歌", "pc":{"r":50,"t":80},"movement":"c"},
+	    {"name":"傲慢与偏见", "pc":{"r":60,"t":70},"movement":"c"},
             {"name":"世界上最神奇的24堂课", pc: { r: 90, t: 60 }, "movement":"c" },
             {"name":"我是你爸爸", "pc":{"r":140,"t":85},"movement":"c"},
             {"name":"变身", "pc":{"r":180,"t":40},"movement":"c"},
