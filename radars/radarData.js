@@ -66,9 +66,10 @@ var radar_data = [
             {"name":"20岁,光阴不再来", "pc":{"r":120,"t":130},"movement":"c"},
             {"name":"高敏感是种天赋", "pc":{"r":130,"t":150},"movement":"c"},
             {"name":"精进：如何成为一个很厉害的人", "pc":{"r":140,"t":120},"movement":"c"},
-			{"name":"精进2：解锁外物的心智进化法", "pc":{"r":145,"t":125},"movement":"c"},
+			      {"name":"精进2：解锁外物的心智进化法", "pc":{"r":145,"t":125},"movement":"c"},
             {"name":"说话之道", "pc":{"r":150,"t":120},"movement":"c"},
             {"name":"如何让你爱的人爱上你", pc: { r: 160, t: 155 }, "movement":"c" },
+            {"name":"副业赚钱", pc: { r: 165, t: 145 }, "movement":"c" },
             {"name":"自学是门艺术", "pc":{"r":170,"t":130},"movement":"c"},
             {"name":"读书是一辈子事", "pc":{"r":190,"t":150},"movement":"c"},
             {"name":"弱传播", "pc":{"r":260,"t":130},"movement":"c"},
@@ -85,19 +86,20 @@ var radar_data = [
         "items" : [
             {"name":"瓦尔登湖", "pc":{"r":10,"t":45},"movement":"c"},
             {"name": "活着", pc: { r: 40, t: 30 }, "movement":"c" },
-	    {"name": "自私的基因", pc: { r: 45, t: 50 }, "movement":"c" },
+	          {"name": "自私的基因", pc: { r: 45, t: 50 }, "movement":"c" },
             {"name":"流浪者之歌", "pc":{"r":50,"t":80},"movement":"c"},
-	    {"name":"一个叫欧维的男人决定去死", "pc":{"r":55,"t":40},"movement":"c"},
-	    {"name":"杀死一只知更鸟", "pc":{"r":60,"t":40},"movement":"c"},
-	    {"name":"傲慢与偏见", "pc":{"r":70,"t":70},"movement":"c"},
+	          {"name":"一个叫欧维的男人决定去死", "pc":{"r":55,"t":40},"movement":"c"},
+	          {"name":"摆渡人", "pc":{"r":55,"t":60},"movement":"c"},
+	          {"name":"一句顶一万句", "pc":{"r":55,"t":70},"movement":"c"},
+	          {"name":"杀死一只知更鸟", "pc":{"r":60,"t":40},"movement":"c"},
+	          {"name":"傲慢与偏见", "pc":{"r":70,"t":70},"movement":"c"},
             {"name":"世界上最神奇的24堂课", pc: { r: 90, t: 60 }, "movement":"c" },
             {"name":"我是你爸爸", "pc":{"r":140,"t":85},"movement":"c"},
             {"name":"变身", "pc":{"r":180,"t":40},"movement":"c"},
-            {"name":"傲慢与偏见", "pc":{"r":320,"t":20},"movement":"c"},
             {"name":"千面英雄", "pc":{"r":330,"t":75},"movement":"c"},
             {"name":"活出生命的意义", "pc":{"r":350,"t":25},"movement":"c"},
             {"name":"围城", "pc":{"r":360,"t":40},"movement":"c"}
-            
+
         ]
     },
     { "quadrant": "经济、法律与心理学",
