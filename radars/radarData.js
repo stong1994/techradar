@@ -86,18 +86,20 @@ var radar_data = [
         "items" : [
             {"name":"瓦尔登湖", "pc":{"r":10,"t":45},"movement":"c"},
             {"name": "活着", pc: { r: 40, t: 30 }, "movement":"c" },
+			{"name":"活出生命的意义", "pc":{"r":50,"t":65},"movement":"c"},
 	          {"name": "自私的基因", pc: { r: 45, t: 50 }, "movement":"c" },
             {"name":"流浪者之歌", "pc":{"r":50,"t":80},"movement":"c"},
-	          {"name":"一个叫欧维的男人决定去死", "pc":{"r":55,"t":40},"movement":"c"},
-	          {"name":"摆渡人", "pc":{"r":55,"t":60},"movement":"c"},
-	          {"name":"一句顶一万句", "pc":{"r":55,"t":70},"movement":"c"},
-	          {"name":"杀死一只知更鸟", "pc":{"r":60,"t":40},"movement":"c"},
-	          {"name":"傲慢与偏见", "pc":{"r":70,"t":70},"movement":"c"},
-            {"name":"世界上最神奇的24堂课", pc: { r: 90, t: 60 }, "movement":"c" },
-            {"name":"我是你爸爸", "pc":{"r":140,"t":85},"movement":"c"},
+	          {"name":"一个叫欧维的男人决定去死", "pc":{"r":105,"t":40},"movement":"c"},
+	          {"name":"摆渡人", "pc":{"r":115,"t":60},"movement":"c"},
+	          {"name":"一句顶一万句", "pc":{"r":125,"t":70},"movement":"c"},
+			  {"name":"世界上最神奇的24堂课", pc: { r: 130, t: 60 }, "movement":"c" },
+	          {"name":"杀死一只知更鸟", "pc":{"r":135,"t":40},"movement":"c"},
+	          {"name":"傲慢与偏见", "pc":{"r":145,"t":70},"movement":"c"},
+            
+            {"name":"我是你爸爸", "pc":{"r":160,"t":85},"movement":"c"},
             {"name":"变身", "pc":{"r":180,"t":40},"movement":"c"},
             {"name":"千面英雄", "pc":{"r":330,"t":75},"movement":"c"},
-            {"name":"活出生命的意义", "pc":{"r":350,"t":25},"movement":"c"},
+            
             {"name":"围城", "pc":{"r":360,"t":40},"movement":"c"}
 
         ]
