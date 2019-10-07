@@ -57,7 +57,6 @@ var radar_data = [
             {"name": "原则", pc: { r: 50, t: 133 }, "movement":"c" },
             {"name":"人性的弱点", "pc":{"r":60,"t":120},"movement":"c"},
             {"name":"深度工作", "pc":{"r":70,"t":165},"movement":"c"},
-			{"name": "这就是OKR", pc: { r: 75, t: 133 }, "movement":"c" },
             {"name":"思考，快与慢", "pc":{"r":80,"t":120},"movement":"c"},
             {"name":"穷查理宝典", "pc":{"r":85,"t":90},"movement":"c"},
             {"name":"见识", "pc":{"r":90,"t":120},"movement":"c"},
@@ -65,10 +64,9 @@ var radar_data = [
             {"name":"穷爸爸富爸爸", "pc":{"r":100,"t":110},"movement":"c"},
             {"name":"成功的真谛", "pc":{"r":110,"t":160},"movement":"c"},
             {"name":"20岁,光阴不再来", "pc":{"r":120,"t":130},"movement":"c"},
-			{"name":"鬼谷子", "pc":{"r":125,"t":140},"movement":"c"},
             {"name":"高敏感是种天赋", "pc":{"r":130,"t":150},"movement":"c"},
             {"name":"精进：如何成为一个很厉害的人", "pc":{"r":140,"t":120},"movement":"c"},
-			{"name":"精进2：解锁外物的心智进化法", "pc":{"r":145,"t":125},"movement":"c"},
+			      {"name":"精进2：解锁外物的心智进化法", "pc":{"r":145,"t":125},"movement":"c"},
             {"name":"说话之道", "pc":{"r":150,"t":120},"movement":"c"},
             {"name":"如何让你爱的人爱上你", pc: { r: 160, t: 155 }, "movement":"c" },
             {"name":"副业赚钱", pc: { r: 165, t: 145 }, "movement":"c" },
@@ -114,7 +112,6 @@ var radar_data = [
 	    {"name":"乌合之众", "pc":{"r":30,"t":235},"movement":"c"},
             {"name": "西窗法雨", pc: { r: 90, t: 205 }, "movement":"c" },
             {"name":"自卑与超越", pc: { r: 110, t: 225 }, "movement":"c" },
-			{"name":"演讲的力量", "pc":{"r":130,"t":235},"movement":"c"},
             {"name":"法学导论", "pc":{"r":120,"t":200},"movement":"c"},
             {"name":"国富论", "pc":{"r":360,"t":220},"movement":"c"}
 		]
