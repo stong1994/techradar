@@ -62,6 +62,7 @@ var radar_data = [
             {"name":"穷查理宝典", "pc":{"r":85,"t":90},"movement":"c"},
             {"name":"见识", "pc":{"r":90,"t":120},"movement":"c"},
             {"name":"黑天鹅", "pc":{"r":95,"t":100},"movement":"c"},
+            {"name":"乔布斯传", "pc":{"r":99,"t":90},"movement":"c"},
             {"name":"穷爸爸富爸爸", "pc":{"r":100,"t":110},"movement":"c"},
             {"name":"成功的真谛", "pc":{"r":110,"t":160},"movement":"c"},
             {"name":"20岁,光阴不再来", "pc":{"r":120,"t":130},"movement":"c"},
@@ -88,6 +89,7 @@ var radar_data = [
         "items" : [
             {"name":"瓦尔登湖", "pc":{"r":10,"t":45},"movement":"c"},
             {"name": "活着", pc: { r: 40, t: 30 }, "movement":"c" },
+            {"name": "边城", pc: { r: 40, t: 60 }, "movement":"c" },
 			{"name":"活出生命的意义", "pc":{"r":50,"t":65},"movement":"c"},
 	          {"name": "自私的基因", pc: { r: 45, t: 50 }, "movement":"c" },
             {"name":"流浪者之歌", "pc":{"r":50,"t":80},"movement":"c"},
