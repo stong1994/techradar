@@ -62,6 +62,7 @@ var radar_data = [
             {"name":"穷查理宝典", "pc":{"r":85,"t":90},"movement":"c"},
             {"name":"见识", "pc":{"r":90,"t":120},"movement":"c"},
             {"name":"黑天鹅", "pc":{"r":95,"t":100},"movement":"c"},
+            {"name":"异类", "pc":{"r":95,"t":170},"movement":"c"},
             {"name":"乔布斯传", "pc":{"r":99,"t":90},"movement":"c"},
             {"name":"穷爸爸富爸爸", "pc":{"r":100,"t":110},"movement":"c"},
             {"name":"成功的真谛", "pc":{"r":110,"t":160},"movement":"c"},
@@ -89,6 +90,7 @@ var radar_data = [
         "items" : [
             {"name":"瓦尔登湖", "pc":{"r":10,"t":45},"movement":"c"},
             {"name": "活着", pc: { r: 40, t: 30 }, "movement":"c" },
+            {"name":"围城", "pc":{"r":40,"t":80},"movement":"c"},
             {"name": "边城", pc: { r: 40, t: 60 }, "movement":"c" },
             {"name": "树王+棋王+孩子王", pc: { r: 45, t: 45 }, "movement":"c" },
             {"name": "盖特露德+克诺尔普+悉达多", pc: { r: 50, t: 65 }, "movement":"c" },
@@ -105,10 +107,7 @@ var radar_data = [
             
             {"name":"我是你爸爸", "pc":{"r":160,"t":85},"movement":"c"},
             {"name":"变身", "pc":{"r":180,"t":40},"movement":"c"},
-            {"name":"千面英雄", "pc":{"r":330,"t":75},"movement":"c"},
-            
-            {"name":"围城", "pc":{"r":360,"t":40},"movement":"c"}
-
+            {"name":"千面英雄", "pc":{"r":330,"t":75},"movement":"c"}
         ]
     },
     { "quadrant": "经济、法律与心理学",
